@@ -1,1 +1,19 @@
-rogerdudler.github.io/git-guide/index.fr.html
+TUTO premier pas : rogerdudler.github.io/git-guide/index.fr.html
+
+git checkout -b : Creer une branche
+git checkout : Aller dans un branche
+git branch : Liste les branches
+git fetch : MaJ locales des branches
+
+git pull : Permet de mettre a jour notre git 
+	Ne marche pas si jai ecrit en local
+	il faut git stash
+
+git stash : Sauvegarde mon travail localavec un id & permet de git pull sans probleme
+
+
+Reste a ecrire : 
+	Pull request
+	Commit 
+	Push
+	... 
